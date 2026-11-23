@@ -74,10 +74,8 @@ Tem uma ideia ou precisa de um site para o seu negócio? Vamos conversar.
 [![E-mail](https://img.shields.io/badge/E--MAIL-111111?style=for-the-badge&logo=gmail&logoColor=D01B1B)](mailto:danielpimentelcd@gmail.com)
 
 <!-- REDES SOCIAIS: troque SEU_USUARIO e apague as que não usar -->
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=D01B1B)](https://instagram.com/SEU_USUARIO)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=D01B1B)](https://instagram.com/daniell_eth_)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=D01B1B)](https://linkedin.com/in/SEU_USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-111111?style=for-the-badge&logo=whatsapp&logoColor=D01B1B)](https://wa.me/55SEUNUMERO)
-[![Behance](https://img.shields.io/badge/BEHANCE-111111?style=for-the-badge&logo=behance&logoColor=D01B1B)](https://behance.net/SEU_USUARIO)
 
 </div>
 
